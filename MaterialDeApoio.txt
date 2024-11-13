@@ -1,0 +1,31 @@
+PDF: Estudo e analise de funções
+https://maups.github.io/papers/tcc_006.pdf
+
+VIDEO AULAS: Estudo de criação e movimentos
+https://www.youtube.com/watch?v=iYZ7lBwV-OQ&list=PLk71LmrxnFw28yD1bqTi4w36k3W4xxTmw
+https://www.youtube.com/watch?v=bw4LF3f_Xxc
+https://www.youtube.com/watch?v=zx7xFJiBGZQ
+https://www.youtube.com/watch?v=fqgHXTEaFic
+https://www.youtube.com/watch?v=dW38eNlXnt8
+https://www.youtube.com/watch?v=HQD1-IsYMp0
+https://www.youtube.com/watch?v=0qtoh_PjhcU&t=58s
+https://www.youtube.com/watch?v=mywuslHmYQI&t=29s
+
+
+TUTORIAIS: Métodos e estratégias analisadas/implementados
+http://robowiki.net/wiki/GuessFactor_Targeting_Tutorial
+https://robowiki.net/wiki/Anti-Gravity_Tutorial
+http://robowiki.net/wiki/Robocode/FAQ
+http://robowiki.net/wiki/HawkOnFire
+https://robowiki.net/wiki/Coriantumr
+http://robowiki.net/wiki/Melee_Strategy
+http://robowiki.net/wiki/Melee_Strategy/Understanding_Coriantumr
+http://robowiki.net/wiki/Minimum_Risk_Movement
+
+GITHUB: Projetos utilizados como inspiração/ajuda
+https://github.com/gjgomez/RoboCodeSample
+https://github.com/JonHarder/RoboCodeCompetition
+https://github.com/jasongalbraith/teamrobocode
+https://github.com/corbos/robocode
+https://github.com/AdmiralRasmussen/robocode
+
